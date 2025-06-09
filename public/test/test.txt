@@ -1,0 +1,4 @@
+Bu bir test dosyasıdır.
+
+Bu dosya yalnızca IDE'yi test etmek için oluşturulmuştur. 
+Kullanıcı "Yerel Dosyaları Göster" düğmesine basmadığı sürece bu dosya görünmeyecektir. 
